@@ -36,8 +36,8 @@
       "url": "https://raw.githubusercontent.com/Antecer/mc/master/[1.7.10]科技时代/mods/[NEI+]NBTEdit_1.7.10.jar"
     },
     {
-      "name": "[NEI+]neiaddons-mc1710-1.12.0.4.jar",
-      "url": "https://raw.githubusercontent.com/Antecer/mc/master/[1.7.10]科技时代/mods/[NEI+]neiaddons-mc1710-1.12.0.4.jar"
+      "name": "[NEI+]neiaddons-mc1710-1.12.4.16.jar",
+      "url": "https://raw.githubusercontent.com/Antecer/mc/master/[1.7.10]科技时代/mods/[NEI+]neiaddons-mc1710-1.12.4.16.jar"
     },
     {
       "name": "[NEI+]NEIPlugins-MC1.7.10-1.1.0.7-unofficial.jar",
@@ -58,6 +58,10 @@
     {
       "name": "[RC]Railcraft_1.7.10-9.5.0.0.jar",
       "url": "https://raw.githubusercontent.com/Antecer/mc/master/[1.7.10]科技时代/mods/[RC]Railcraft_1.7.10-9.5.0.0.jar"
+    },
+    {
+      "name": "[Sub]DynamicLights-1.7.10.jar",
+      "url": "https://raw.githubusercontent.com/Antecer/mc/master/[1.7.10]科技时代/mods/[Sub]DynamicLights-1.7.10.jar"
     },
     {
       "name": "[Sub]InputFix-1.7.10-v5.jar",
