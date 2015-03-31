@@ -4,8 +4,8 @@
   "json": "https://raw.githubusercontent.com/Antecer/mc/master/[1.7.10]科技时代/[1.7.10]科技时代.json",
   "mods": [
     {
-      "name": "[AE]appliedenergistics2-rv2-beta-18.jar",
-      "url": "https://raw.githubusercontent.com/Antecer/mc/master/[1.7.10]科技时代/mods/[AE]appliedenergistics2-rv2-beta-18.jar"
+      "name": "[AE]appliedenergistics2-rv2-beta-22.jar",
+      "url": "http://ae-mod.info/builds/appliedenergistics2-rv2-beta-22.jar"
     },
     {
       "name": "[BC]buildcraft-6.4.3.jar",
