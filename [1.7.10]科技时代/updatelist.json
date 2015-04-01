@@ -12,8 +12,8 @@
       "url": "https://raw.githubusercontent.com/Antecer/mc/master/[1.7.10]科技时代/mods/[BC]buildcraft-6.4.3.jar"
     },
     {
-      "name": "[F]forestry_1.7.10-3.5.0.504-unstable.jar",
-      "url": "https://raw.githubusercontent.com/Antecer/mc/master/[1.7.10]科技时代/mods/[F]forestry_1.7.10-3.5.0.504-unstable.jar"
+      "name": "[F]forestry_1.7.10-3.5.0.514-unstable.jar",
+      "url": "http://jenkins.ic2.player.to/job/Forestry_Dev/lastSuccessfulBuild/artifact/build/dist/forestry_1.7.10-3.5.0.514-unstable.jar"
     },
     {
       "name": "[IC]industrialcraft-2-2.2.669-experimental.jar",
