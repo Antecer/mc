@@ -5,7 +5,7 @@
   "mods": [
     {
       "name": "[AE]appliedenergistics2-rv2-beta-18.jar",
-      "url": "http://ae-mod.info/builds/appliedenergistics2-rv2-beta-18.jar"
+      "url": "https://raw.githubusercontent.com/Antecer/mc/master/[1.7.10]科技时代/mods/[AE]appliedenergistics2-rv2-beta-18.jar"
     },
     {
       "name": "[BC]buildcraft-6.4.3.jar",
@@ -13,7 +13,7 @@
     },
     {
       "name": "[F]forestry_1.7.10-3.5.0.514-unstable.jar",
-      "url": "http://jenkins.ic2.player.to/job/Forestry_Dev/lastSuccessfulBuild/artifact/build/dist/forestry_1.7.10-3.5.0.514-unstable.jar"
+      "url": "https://raw.githubusercontent.com/Antecer/mc/master/[1.7.10]科技时代/mods/[F]forestry_1.7.10-3.5.0.514-unstable.jar"
     },
     {
       "name": "[IC]industrialcraft-2-2.2.669-experimental.jar",
@@ -102,6 +102,10 @@
     {
       "name": "[UI]UniSkinMod-1.7.10-1.2-dev3-rev2.jar",
       "url": "https://raw.githubusercontent.com/Antecer/mc/master/[1.7.10]科技时代/mods/[UI]UniSkinMod-1.7.10-1.2-dev3-rev2.jar"
+    },
+    {
+      "name": "[UI]yarrcutemobmodels-1.0.9-1.7.10.jar",
+      "url": "https://raw.githubusercontent.com/Antecer/mc/master/[1.7.10]科技时代/mods/[UI]yarrcutemobmodels-1.0.9-1.7.10.jar"
     },
     {
       "name": "fastcraft-1.19.jar",
