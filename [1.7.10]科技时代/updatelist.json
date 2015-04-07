@@ -1,193 +1,193 @@
 {
-  "name": "[1.7.10]科技时代",
-  "updatelist": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/updatelist.json",
-  "servers": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/servers.dat",
+  "name": "[1.7.10]绉戞妧鏃朵唬",
+  "updatelist": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/updatelist.json",
+  "servers": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/servers.dat",
   "game": [
     {
-      "name": "[1.7.10]科技时代.jar",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/[1.7.10]科技时代.jar",
+      "name": "[1.7.10]绉戞妧鏃朵唬.jar",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/[1.7.10]绉戞妧鏃朵唬.jar",
       "size": "5256245",
       "hash": "E6B7A531B95D0C172ACB704D1F54D1B3"
     },
     {
-      "name": "[1.7.10]科技时代.json",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/[1.7.10]科技时代.json",
-      "size": "7159",
-      "hash": "81CFCF4EBC803F649C3B8D09CC701C0F"
+      "name": "[1.7.10]绉戞妧鏃朵唬.json",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/[1.7.10]绉戞妧鏃朵唬.json",
+      "size": "6864",
+      "hash": "D507CCCB15CB5EE7F06269617E71326D"
     }
   ],
   "mods": [
     {
       "name": "fastcraft-1.19.jar",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/mods/fastcraft-1.19.jar",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/mods/fastcraft-1.19.jar",
       "size": "81738",
       "hash": "4B503355F86D17406CE658F506EB1407"
     },
     {
       "name": "OpenEye-0.6-1.7.10.jar",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/mods/OpenEye-0.6-1.7.10.jar",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/mods/OpenEye-0.6-1.7.10.jar",
       "size": "178309",
       "hash": "38671A0AD16F1B8978FBD612EC75E9D3"
     },
     {
       "name": "[AE]appliedenergistics2-rv2-beta-26.jar",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/mods/[AE]appliedenergistics2-rv2-beta-26.jar",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/mods/[AE]appliedenergistics2-rv2-beta-26.jar",
       "size": "2513074",
       "hash": "3A8ADF370FD246ECFA99A7BD42B47D66"
     },
     {
       "name": "[BC]buildcraft-6.4.7.jar",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/mods/[BC]buildcraft-6.4.7.jar",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/mods/[BC]buildcraft-6.4.7.jar",
       "size": "2358021",
       "hash": "C70802066C2F8E5801186E853BE72890"
     },
     {
       "name": "[F]forestry_1.7.10-3.6.0.520-unstable.jar",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/mods/[F]forestry_1.7.10-3.6.0.520-unstable.jar",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/mods/[F]forestry_1.7.10-3.6.0.520-unstable.jar",
       "size": "3037201",
       "hash": "8B86E48E029D76B55C43BB4BDDD37908"
     },
     {
       "name": "[IC+]AdvancedSolarPanel-1.7.10-3.5.1.jar",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/mods/[IC+]AdvancedSolarPanel-1.7.10-3.5.1.jar",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/mods/[IC+]AdvancedSolarPanel-1.7.10-3.5.1.jar",
       "size": "305766",
       "hash": "3222A0BF39B9DEDC957958A06DF7E187"
     },
     {
       "name": "[IC]industrialcraft-2-2.2.669-experimental.jar",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/mods/[IC]industrialcraft-2-2.2.669-experimental.jar",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/mods/[IC]industrialcraft-2-2.2.669-experimental.jar",
       "size": "5303786",
       "hash": "F09425758A69B805AF55212A43B14DAB"
     },
     {
       "name": "[NEI+]NBTEdit_1.7.10.jar",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/mods/[NEI+]NBTEdit_1.7.10.jar",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/mods/[NEI+]NBTEdit_1.7.10.jar",
       "size": "77220",
       "hash": "90E0934C34FE91161362421966A30B39"
     },
     {
       "name": "[NEI+]neiaddons-mc1710-1.12.4.16.jar",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/mods/[NEI+]neiaddons-mc1710-1.12.4.16.jar",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/mods/[NEI+]neiaddons-mc1710-1.12.4.16.jar",
       "size": "136749",
       "hash": "3AD906DBA9BA5635FB6E53488F5A1AB8"
     },
     {
       "name": "[NEI+]NEIPlugins-MC1.7.10-1.1.0.8-unofficial.jar",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/mods/[NEI+]NEIPlugins-MC1.7.10-1.1.0.8-unofficial.jar",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/mods/[NEI+]NEIPlugins-MC1.7.10-1.1.0.8-unofficial.jar",
       "size": "290164",
       "hash": "35013A451C7F3967C8A9BF397B4F6CF6"
     },
     {
       "name": "[NEI+]OmniOcular-1.7.10-1.0build28.jar",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/mods/[NEI+]OmniOcular-1.7.10-1.0build28.jar",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/mods/[NEI+]OmniOcular-1.7.10-1.0build28.jar",
       "size": "52558",
       "hash": "850660CF801D2A5343FDC759EC5D5FFC"
     },
     {
       "name": "[NEI+]Waila-1.5.9_1.7.10.jar",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/mods/[NEI+]Waila-1.5.9_1.7.10.jar",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/mods/[NEI+]Waila-1.5.9_1.7.10.jar",
       "size": "539206",
       "hash": "C469C01C60182E4A0CCD558C84BAFED5"
     },
     {
       "name": "[NEI]CodeChickenCore-1.7.10-1.0.4.35-universal.jar",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/mods/[NEI]CodeChickenCore-1.7.10-1.0.4.35-universal.jar",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/mods/[NEI]CodeChickenCore-1.7.10-1.0.4.35-universal.jar",
       "size": "157765",
       "hash": "0F82AEDF717FE0F580B4FD3A6514A6FF"
     },
     {
       "name": "[NEI]NotEnoughItems-1.7.10-1.0.4.90-universal.jar",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/mods/[NEI]NotEnoughItems-1.7.10-1.0.4.90-universal.jar",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/mods/[NEI]NotEnoughItems-1.7.10-1.0.4.90-universal.jar",
       "size": "510881",
       "hash": "A52EAD42AFAEA9024156AA3A5C448F95"
     },
     {
       "name": "[PC]PowerConverters-1.7.10-3.0.4.47.jar",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/mods/[PC]PowerConverters-1.7.10-3.0.4.47.jar",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/mods/[PC]PowerConverters-1.7.10-3.0.4.47.jar",
       "size": "345783",
       "hash": "8A35CD8BE96408F046E98FAED425AC53"
     },
     {
       "name": "[Sub]DynamicLights-1.7.10.jar",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/mods/[Sub]DynamicLights-1.7.10.jar",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/mods/[Sub]DynamicLights-1.7.10.jar",
       "size": "96266",
       "hash": "8840330ED22E14467063F73E2AA8CA04"
     },
     {
       "name": "[Sub]InputFix-1.7.10-v5.jar",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/mods/[Sub]InputFix-1.7.10-v5.jar",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/mods/[Sub]InputFix-1.7.10-v5.jar",
       "size": "16647",
       "hash": "E1F9777C60CF07347094345BBA247356"
     },
     {
       "name": "[Sub]InventoryTweaks-1.59-dev-152.jar",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/mods/[Sub]InventoryTweaks-1.59-dev-152.jar",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/mods/[Sub]InventoryTweaks-1.59-dev-152.jar",
       "size": "224461",
       "hash": "83F7DDCD5F5FD8D640AA15DC62ACC6BF"
     },
     {
       "name": "[Sub]MouseTweaks-2.4.4-mc1.7.10.jar",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/mods/[Sub]MouseTweaks-2.4.4-mc1.7.10.jar",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/mods/[Sub]MouseTweaks-2.4.4-mc1.7.10.jar",
       "size": "51898",
       "hash": "D4968EB0B513066313259FCD80BB8EB0"
     },
     {
       "name": "[Sub]ReiMinimap-3.6.jar",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/mods/[Sub]ReiMinimap-3.6.jar",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/mods/[Sub]ReiMinimap-3.6.jar",
       "size": "184262",
       "hash": "8C580119466D12AD4ED641F710CEF5ED"
     },
     {
       "name": "[UI]BetterFonts1.1.4.jar",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/mods/[UI]BetterFonts1.1.4.jar",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/mods/[UI]BetterFonts1.1.4.jar",
       "size": "36708",
       "hash": "9406564587D5D1D403486B8CBA689B8D"
     },
     {
       "name": "[UI]OptiFine_1.7.10_HD_U_B5.jar",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/mods/[UI]OptiFine_1.7.10_HD_U_B5.jar",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/mods/[UI]OptiFine_1.7.10_HD_U_B5.jar",
       "size": "892682",
       "hash": "13E7145CBC832131F1B7DB9C488B2596"
     },
     {
       "name": "[UI]SoundFilters-0.8_for_1.7.X.jar",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/mods/[UI]SoundFilters-0.8_for_1.7.X.jar",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/mods/[UI]SoundFilters-0.8_for_1.7.X.jar",
       "size": "41252",
       "hash": "772F4A162FA649CE421926A302A7F8FE"
     },
     {
       "name": "[UI]UniSkinMod-1.7.10-1.2-dev3-rev2.jar",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/mods/[UI]UniSkinMod-1.7.10-1.2-dev3-rev2.jar",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/mods/[UI]UniSkinMod-1.7.10-1.2-dev3-rev2.jar",
       "size": "12219",
       "hash": "CC91443140D7E8EFA17146D07838FC66"
     },
     {
       "name": "[UI]yarrcutemobmodels-1.0.9-1.7.10.jar",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/mods/[UI]yarrcutemobmodels-1.0.9-1.7.10.jar",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/mods/[UI]yarrcutemobmodels-1.0.9-1.7.10.jar",
       "size": "217758",
       "hash": "FBA41286400205B289FB308089CF4223"
     },
     {
       "name": "[Sub]mod_Autofish_0.4.4_mc1.7.10.litemod",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/mods/[Sub]mod_Autofish_0.4.4_mc1.7.10.litemod",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/mods/[Sub]mod_Autofish_0.4.4_mc1.7.10.litemod",
       "size": "9904",
       "hash": "6EC6D892508312D610FF840779021C7A"
     },
     {
       "name": "[Sub]mod_macros_0.10.12_for_1.7.10.litemod",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/mods/[Sub]mod_macros_0.10.12_for_1.7.10.litemod",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/mods/[Sub]mod_macros_0.10.12_for_1.7.10.litemod",
       "size": "1253829",
       "hash": "142DB9682CCC0623112C4768666303EB"
     },
     {
       "name": "[UI]Link_Info-mc1.7.10-0.3.1.litemod",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/mods/[UI]Link_Info-mc1.7.10-0.3.1.litemod",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/mods/[UI]Link_Info-mc1.7.10-0.3.1.litemod",
       "size": "20327",
       "hash": "8BA871A22C7644D7AB14E8B5CE71DDEC"
     },
     {
       "name": "[UI]TabbyChat-1.7.10-1.11.2.2-liteloader.litemod",
-      "url": "https://coding.net/u/Antecer/p/mc/git/raw/master/[1.7.10]科技时代/mods/[UI]TabbyChat-1.7.10-1.11.2.2-liteloader.litemod",
+      "url": "http://git.oschina.net/Antecer/mc/raw/master/[1.7.10]绉戞妧鏃朵唬/mods/[UI]TabbyChat-1.7.10-1.11.2.2-liteloader.litemod",
       "size": "380677",
       "hash": "9E223E4C726166572D0C90FE0EBDF75E"
     }
